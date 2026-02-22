@@ -1,4 +1,4 @@
 {
-	    "parameter_2": {"name": "distance",     "type": "continuous", "unit": "%",  "min": 0,   "max": 100}
+	    "parameter_1": {"name": "distance",     "type": "continuous", "unit": "%",  "min": 0,   "max": 100}
 
 }
